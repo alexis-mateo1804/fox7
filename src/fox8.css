@@ -1,0 +1,93 @@
+body {
+     background-image : url(artwork-wings-angel-diablo-wallpaper-preview.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: rgb(0, 0, 0);
+}
+
+.fox {
+     font-size: 80px;
+     color: rgb(255, 255, 255);
+     text-shadow: 3px 3px 3px rgb(0, 0, 0);
+     
+}
+
+#fax {
+     font-family: 'Courier New', Courier, monospace;
+}
+
+.fire {
+     color: rgb(64, 224, 208);
+     font-size: 45px;
+}
+
+.fan3 {
+     color:rgb(255, 0, 0);
+     text-shadow: 3px 3px 3px rgb(0, 187, 40);
+     font-size: 35px;
+}
+
+.imagen {
+     
+     width: 380px;
+     height: 360px;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+#lobo {
+     background-color: white;
+     border-top: 5px rgb(49, 222, 238) solid;
+    border-bottom: 5px rgb(49, 222, 238) solid;
+    border-left: 5px rgb(49, 222, 238) solid;
+    border-right: 5px rgb(49, 222, 238) solid;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+
+#oso{
+     text-align: center;
+     font: size 40px;
+}
+
+#cielo {
+     color: deepskyblue;
+     text-align: center;
+     font-size: 30px;
+}
+
+p {
+     text-align: center;
+     font-size: 24px;
+}
+
+.fuego{
+     color:red;
+}
+
+#warning{
+     color: yellow;
+     text-align: center;
+     font-size: 30px;
+     text-shadow: 3px 3px 3px rgb(0, 0, 0);
+}
+
+#rojo{
+     color: red;
+     font-size: 24px;
+}
+
+#azul{
+     color: blue;
+     font-size: 24px;
+}
+
+#blue{
+     color: red;
+     font-size: 27px;
+}
